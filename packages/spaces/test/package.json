@@ -1,0 +1,9 @@
+{
+  "name": "spaces",
+  "version": "1.0.0",
+  "description": "Spaces test",
+  "main": "qr.js",
+  "dependencies": {
+    "aws-sdk": "^2.1692.0"
+  }
+}
